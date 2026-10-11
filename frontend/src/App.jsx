@@ -1,3 +1,4 @@
+import "./App.css";
 import Layout from "./layouts/Layout";
 import AppRoutes from "./routes/AppRoutes";
 
